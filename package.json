@@ -1,0 +1,21 @@
+{
+  "name": "sitio",
+  "version": "1.0.0",
+  "description": "prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  },
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1"
+  }
+}
